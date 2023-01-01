@@ -27,7 +27,7 @@
     "request": "^2.88.0",
     "restify": "^8.4.0",
     "uglifyjs2": "0.0.1",
-    "webpack": "^4.41.0"
+    "webpack": "^5.75.0"
   },
   "devDependencies": {
     "gulp": "^4.0.2"
